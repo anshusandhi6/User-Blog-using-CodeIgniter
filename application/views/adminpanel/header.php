@@ -31,7 +31,7 @@
       <div class="sidebar-sticky">
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" href="<?= base_url().'admin/dash' ?>">
+            <a class="nav-link active" href="<?= base_url().'admin/dashboard' ?>">
               <span data-feather="home"></span>
               Dashboard <span class="sr-only">(current)</span>
             </a>
